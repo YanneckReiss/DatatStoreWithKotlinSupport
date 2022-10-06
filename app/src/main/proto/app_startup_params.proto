@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "de.yanneckreiss.protodatastoretutorial.proto";
+option java_multiple_files = true;
+
+message AppStartupParams {
+  int32 startup_counter = 1;
+  int64 startup_unix_timestamp = 2;
+}
