@@ -1,4 +1,4 @@
-# Tutorial - "How To Use Android’s Proto DataStore With Kotlin Support'
+# Tutorial - "How To Use Android’s Proto DataStore With Kotlin Support"
 
 This is the GitHub repository with code samples from my article ["How To Use Android’s Proto DataStore With Kotlin Support"](https://medium.com/tech-takeaways/how-to-use-androids-proto-datastore-with-kotlin-support-8e4f80f1d6d).
 
